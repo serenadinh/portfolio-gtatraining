@@ -2,12 +2,18 @@
 	padding: 0;
 	margin: 0;
 }
+body {
+	color: #000000;
+	font-family: 'EB Garamond', serif;
+}
+/* Navigation Bar */
 a {
 	padding: 25px;
 }
 .nav-bar, li {
 	padding: 5px;
 }
+/* Landing Page */
 #landing.page {
 	text-align: center;
 }
