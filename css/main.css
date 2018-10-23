@@ -16,10 +16,18 @@ body {
 .nav-bar, li {
 	padding: 5px;
 }
-/* Landing Page */
-#landing.page {
+/* Mission Statement */
+#mission-statement {
 	text-align: center;
 }
-#three-btn-path {
+.container-fluid {
+	padding: 150px;
+}
+/* Learning Path */
+#learning-path {
 	text-align: center;
+	text-decoration: none;
+}
+#learning-path, .row {
+	padding: 20px;
 }
