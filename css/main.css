@@ -29,5 +29,17 @@ body {
 	text-decoration: none;
 }
 #learning-path, .row {
-	padding: 20px;
+	padding: 50px;
+}
+button {
+	padding: 15px;
+	background-color: #FDD692;
+	font-family: proxima-nova, serif; 
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: .1em; 
+	line-height: 1.2em;
+	text-transform: uppercase;
+	border-radius: 5em;
+	text-align: center;
 }
