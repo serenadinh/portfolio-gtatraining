@@ -7,8 +7,11 @@ body {
 	font-family: 'EB Garamond', serif;
 }
 /* Navigation Bar */
-a {
-	padding: 25px;
+.navbar-brand {
+	padding: 20px;
+	font-family: 'Vollkorn', sans-serif;
+	font-weight: 50px;
+	text-transform: uppercase;
 }
 .nav-bar, li {
 	padding: 5px;
