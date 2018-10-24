@@ -12,16 +12,24 @@ body {
 	font-family: 'Vollkorn', sans-serif;
 	font-weight: 50px;
 	text-transform: uppercase;
+	position: absolute;
 }
 .nav-bar, li {
 	padding: 5px;
+}
+/* Landing Page */
+.landing-page {
+	position: relative;
 }
 /* Mission Statement */
 #mission-statement {
 	text-align: center;
 }
 .container-fluid {
-	padding: 150px;
+	padding-top: 150px;
+	padding-right: 200px;
+	padding-left: 200px;
+	padding-bottom: 50px;
 }
 /* Learning Path */
 #learning-path {
@@ -42,4 +50,13 @@ button {
 	text-transform: uppercase;
 	border-radius: 5em;
 	text-align: center;
+}
+/*Footer*/
+footer {
+	background-color: #383A3F;
+	padding: 50px;
+}
+#footer {
+	text-align: center;
+	color: #FFFFF3;
 }
